@@ -39,5 +39,37 @@
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2e14d0f8-ef62-445c-aeb9-297f522083d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Armour_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f28cafd6-b255-4259-8c1e-f25a837cfc91" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3c17f99-c37f-4488-b531-593024b21ad9" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Armour_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="71f01286-689f-41fa-a667-717818f31280" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="91264009-a15d-4dad-87e6-15ec57e8a8cf" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Armour_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cc2524d2-3b18-4117-8b4a-f50f60ffc299" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="43621f74-dcb9-4b01-a7f9-db9ada7aa8ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Armour_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="41aa1de9-df89-477c-b23a-b8c707618762" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

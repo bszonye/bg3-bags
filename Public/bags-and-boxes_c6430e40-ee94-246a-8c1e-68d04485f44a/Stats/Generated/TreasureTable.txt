@@ -18,4 +18,12 @@ CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_BZ_Box",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_BZ_Box_Armour_0",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_BZ_Box_Armour_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_BZ_Box_Armour_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_BZ_Box_Armour_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_Underwear_Shadowheart",1,0,0,0,0,0,0,0

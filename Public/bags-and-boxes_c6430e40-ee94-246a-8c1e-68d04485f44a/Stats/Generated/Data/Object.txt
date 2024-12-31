@@ -24,3 +24,23 @@ data "RootTemplate" "b85a8a3c-82d9-4155-9779-1db1d354e7b0"
 data "Weight" "1"
 data "Vitality" "-1"
 
+new entry "OBJ_BZ_Box_Armour_0"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "f28cafd6-b255-4259-8c1e-f25a837cfc91"
+
+new entry "OBJ_BZ_Box_Armour_A"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "71f01286-689f-41fa-a667-717818f31280"
+
+new entry "OBJ_BZ_Box_Armour_B"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "cc2524d2-3b18-4117-8b4a-f50f60ffc299"
+
+new entry "OBJ_BZ_Box_Armour_C"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "41aa1de9-df89-477c-b23a-b8c707618762"
+
