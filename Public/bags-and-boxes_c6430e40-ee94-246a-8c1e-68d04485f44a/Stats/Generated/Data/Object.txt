@@ -1,0 +1,26 @@
+new entry "OBJ_BZ_Bag"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "b3e64d05-193a-47a8-a821-169a4a6d7261"
+data "Vitality" "-1"
+
+new entry "OBJ_BZ_Bag_Collection"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "c3ce2736-8925-494a-b5f3-df11bdee4d5f"
+data "Vitality" "-1"
+
+new entry "OBJ_BZ_Box"
+type "Object"
+using "OBJ_Chest_Wood_Small"
+data "RootTemplate" "6c18ad1f-68a0-4ffd-9af4-149fbacb6946"
+data "Weight" "1"
+data "Vitality" "-1"
+
+new entry "OBJ_BZ_Box_Collection"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "b85a8a3c-82d9-4155-9779-1db1d354e7b0"
+data "Weight" "1"
+data "Vitality" "-1"
+

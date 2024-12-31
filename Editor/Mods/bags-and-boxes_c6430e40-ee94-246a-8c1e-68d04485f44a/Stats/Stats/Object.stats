@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object color="#FF7B68EE" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="39280b39-07a8-4057-bc08-891f8898be9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="200845ed-79fb-45ad-9c82-31569d84ec8f" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b3e64d05-193a-47a8-a821-169a4a6d7261" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6085288b-7985-4c5e-bb59-907ab1cce055" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_Collection" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="200845ed-79fb-45ad-9c82-31569d84ec8f" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c3ce2736-8925-494a-b5f3-df11bdee4d5f" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF7B68EE" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98c79839-4619-4770-9222-87e2af51101e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6c18ad1f-68a0-4ffd-9af4-149fbacb6946" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="52381b66-3fa2-4574-9cfd-9d8056cf3b10" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Collection" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac4dbac1-7af0-45da-b0fa-198fe2f76c72" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b85a8a3c-82d9-4155-9779-1db1d354e7b0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

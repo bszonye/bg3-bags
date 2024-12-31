@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="951f7f7e-76f6-4ec5-96a7-61312b04e58c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b2745a85-2994-4bef-845c-fcb98875ebfe" />
+        <field name="ItemTemplateId" type="FixedStringTableFieldDefinition" value="c3ce2736-8925-494a-b5f3-df11bdee4d5f" />
+        <field name="Amount" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="aa0423ed-8bc2-4988-94a2-4fbadd5a1658" />
+        <field name="ItemTemplateId" type="FixedStringTableFieldDefinition" value="b85a8a3c-82d9-4155-9779-1db1d354e7b0" />
+        <field name="Amount" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
