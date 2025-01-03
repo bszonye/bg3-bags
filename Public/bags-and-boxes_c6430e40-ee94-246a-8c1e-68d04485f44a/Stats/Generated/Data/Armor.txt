@@ -1,0 +1,5 @@
+new entry "ARM_BZ_Underwear_Deva"
+type "Armor"
+using "ARM_Underwear_Shadowheart"
+data "RootTemplate" "4b86e4fc-4532-4a1e-966b-1915fd9de1de"
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc211d49-8cd2-465b-a62b-b05407b460e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Underwear_Deva" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de4406bb-b8cd-4b76-a213-8125072fd378" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4b86e4fc-4532-4a1e-966b-1915fd9de1de" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -12,8 +12,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6085288b-7985-4c5e-bb59-907ab1cce055" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="39280b39-07a8-4057-bc08-891f8898be9b" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c3ce2736-8925-494a-b5f3-df11bdee4d5f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="89034311-9275-420a-ac80-ced721886900" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_Story" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_A_Story" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="39280b39-07a8-4057-bc08-891f8898be9b" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f1030d78-cade-4a69-a869-110b2d088fa4" />
       </fields>
@@ -77,17 +85,9 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8b9b8ca1-4739-413b-b915-1935142ec353" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_Junk" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_Wares" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="39280b39-07a8-4057-bc08-891f8898be9b" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ec988dbe-c796-4edb-9985-b912b3887ea5" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="6085288b-7985-4c5e-bb59-907ab1cce055" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Bag_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="39280b39-07a8-4057-bc08-891f8898be9b" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c3ce2736-8925-494a-b5f3-df11bdee4d5f" />
       </fields>
     </stat_object>
     <stat_object color="#FF7B68EE" is_substat="false">
@@ -96,16 +96,32 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="98c79839-4619-4770-9222-87e2af51101e" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6c18ad1f-68a0-4ffd-9af4-149fbacb6946" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="52381b66-3fa2-4574-9cfd-9d8056cf3b10" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b85a8a3c-82d9-4155-9779-1db1d354e7b0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="539a7e9a-a43f-4898-9150-8585c3f3497a" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Story" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_A_Story" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="585df395-a7ae-4474-ada4-b74a5d1ef892" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e217b80a-125c-4f7e-99b8-829c61ea6c69" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_EQ" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="498e1f3f-5d29-43c0-a126-a84314c13c4d" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -166,14 +182,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="e217b80a-125c-4f7e-99b8-829c61ea6c69" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_EQ_Lights" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="498e1f3f-5d29-43c0-a126-a84314c13c4d" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="32477e85-5925-4853-a04e-82bbd2615bf7" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_EQ_Musical" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
@@ -207,17 +215,177 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="18345523-fbb6-47fa-af93-412f9b2595d7" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Junk" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Wares" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cd9bf494-0095-471f-8b41-c12f791d7fcd" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="52381b66-3fa2-4574-9cfd-9d8056cf3b10" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_A" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fdefaae9-0cdf-4523-b053-6779277b655f" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Library" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b85a8a3c-82d9-4155-9779-1db1d354e7b0" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7944714d-c8d8-43b2-b4cd-0f1041edcb06" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ae30cb45-f5db-4230-a83f-3c3926f6fe64" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Library_Archive" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5e4058ce-7fc1-4789-a265-aef6096c7c28" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7a813df3-bc4f-487c-934a-25dded543348" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Library_Manuscripts" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="97bcbe54-aa30-4497-a646-06136a815e40" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b3403a8d-56f6-4a37-b7c0-01051cdcf764" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Magic" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="69c5dccd-7e7b-43f9-aad1-e1d29a0dc20b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fe2d8e87-5e36-42e1-b22b-620fbf2256d4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Necromancy" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ebceb7e8-3103-4a7e-b3ff-69d49ac10291" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="022b23f6-c5b3-4559-ab52-666b08db9b5e" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7d38575d-f930-4458-aca8-afda6f3a71f0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b3d908a7-5cb4-49fd-90cf-c3f4e54dda1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Alchemy" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e73b81c9-fec2-4507-9a4e-6ffa0d0e187b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d4625c5e-844a-4815-9c0f-ddb81373ee81" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Arrows" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="312c7a03-a424-44c7-a936-40f852fa8a9b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b48519a-51d4-4b28-9680-1d5957872465" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Explosives" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="26614ec3-3dc9-456c-9b5b-89c9e4e9856d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf4f3cf2-f587-4519-8ed6-62ff6094c0eb" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Scrolls" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ae66e808-e312-4398-b8f6-bb00476685ff" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8394fafa-b1f3-4ef8-97f9-6ff48a4b094a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Tools" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5da8934e-9534-4425-b336-90263658fe2b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="27107c36-7b93-4c14-9ecd-bef923a9402a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Supply_Water" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="396a66a0-e115-4662-ac40-f70e72772f5a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8f80d7c5-66b1-4194-a6c3-b8a52549ca0d" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Valuable" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="992cf174-4f1e-4dbb-b0af-4bf61a43b5b6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd13c3b7-18e9-4a04-b01a-0b6e47a43c9d" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Valuable_Art" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b91b0ef0-b79b-4532-869f-bd1b454f0ccc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="42391a9e-f06a-4433-b1e7-e47f9fb7c888" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Valuable_Curios" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="be8c077f-0889-45f6-8ab8-6876e4f02256" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c1fccedc-02a7-482b-a24b-1e2e1206e899" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Valuable_Keepsakes" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="10107e0f-68bb-4bea-9455-8700656772a2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="91528590-8450-4a64-8577-8071d38ec8c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Vanity" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="52b0ab5b-d165-49c7-80c7-5c3a78e7a2be" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5a661cb3-91d3-46d3-90d6-e5b130ef663a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Vanity_Dyes" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c1b75b3c-0240-4ce2-877c-d5432dfe2d9f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="042322bb-ad2e-48cb-9620-b3a104a3f457" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Vanity_Shoes" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f577fdc9-c1fe-429b-9cbf-e0c17b737164" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="be696666-a74e-4ec2-b945-a5b6b06676f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Vanity_Underwear" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="975a772d-def0-4237-9798-3501b9260308" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c7c7ac04-5e08-4907-8989-49886c38443e" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box_Vanity_Unique" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c392aa4-cc6a-4b81-8d76-82bb8e21502c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="67dfc5d6-feb8-4ffa-bb42-8c79acf79009" />
       </fields>
     </stat_object>
   </stat_objects>
