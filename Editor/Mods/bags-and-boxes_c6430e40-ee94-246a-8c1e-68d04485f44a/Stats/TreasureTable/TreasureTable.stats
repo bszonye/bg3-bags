@@ -511,6 +511,196 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="67d47f2a-efc4-433a-80d2-62d8c3df7275" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_All_Underwear_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dragonborn" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="83b779c7-c251-4dad-b029-8868630b0e71" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dragonborn_Bronze" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="81dc6eee-a9d3-4c6e-866b-1766ceb63dde" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dwarves" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba166f18-905e-468e-80f0-194574ad7d47" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dwarves_Green" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d7435975-e521-409c-9d0d-ed7a51e7fa1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dfcb05d4-934e-4dff-b5a5-87392a6c9b2e" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves_Blue" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5463b7c6-076e-4899-9843-c85c2c385d7f" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves_Purple" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4aa9ace3-65f5-4003-9397-50bf264abeee" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Githyanki" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="36036d8d-6fbb-401a-bd1c-193c7e4fe3fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Githyanki_Black" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a33a338d-7a4b-4b73-ac39-4585a8a76c51" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Gnomes" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="339c3e9c-783a-4227-bf19-ad89e14d1686" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Gnomes_Blue" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dca55b55-1f18-4fd4-b7d7-0a2bc521338d" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_10" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Halflings" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="985c7e53-2cac-4419-a0e5-130a0b9f20f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_HalfOrcs" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1586a116-5a7d-48be-ae17-4d5737e20d18" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_HalfOrcs_Orange" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0fd578e4-005b-4f99-8b5b-9aafce8f5515" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3bf35c65-ccb8-4a66-ac80-0474d80c7364" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_14" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d2df5f51-36e3-4f36-9f7e-12db9322b65b" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="56cbb4b1-cf6f-4e0f-b715-53181a3d4c3d" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_16" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Tieflings" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8517fbd2-5cea-4adb-a72d-eb0c5d9b8b4a" />
+        <field name="Name" type="NameTableFieldDefinition" value="4c04ec70-1577-48fe-8e49-e4bd5f0ce981_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Incubus" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="44d0fd00-50cb-4f80-bc79-9fd46036a04b" />
@@ -557,7 +747,107 @@
         <field name="Name" type="NameTableFieldDefinition" value="BZ_All_Vanity_Unique" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Laezel" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="da15c420-8be8-442d-a80e-79560931203e" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_19" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Laezel" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5b3ac8ff-5502-4b75-a797-a60b712a0bc7" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_2" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Laezel" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e97ff563-6bb6-4910-9db4-0ded70b01bfc" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_24" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Shadowheart" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9bbf9257-45b4-4550-beba-f0ff83cb9eb7" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_23" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Shadowheart" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b79dbf52-8165-4315-8ee8-5ea8f9f92662" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_6" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Shadowheart" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="72c1245d-695d-4148-9eca-208c99367168" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_20" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Astarion" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96788258-80a2-49c3-80a0-494b0a82ca2c" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Astarion" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="939f69f7-ff5c-462a-b755-bced187a8751" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Astarion" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="823aba1f-7f7c-40c4-ac0b-9575421aadad" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_10" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Gale" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="be808147-21d1-45bb-b42d-f9ea8cfeb682" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Gale" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -574,9 +864,29 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="1f0a9916-5c56-4d07-bcdb-6ec03df23480" />
-        <field name="Name" type="NameTableFieldDefinition" value="CONT_BZ_Box_Companions_substat" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Halsin" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e3bf64e8-f128-4400-ba34-dc67bbc395d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_26" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Wyll" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="00f467e0-0f23-47c1-bc0b-dae589168091" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_25" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Wyll" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="13247d55-7c7b-4715-b616-8e8b9e8ed8ee" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_7" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Wyll" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
       </fields>
@@ -584,11 +894,21 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="598968c7-3c2c-44b4-8b6e-254a27d9396e" />
-        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_0" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Jaheira" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9bd9a013-45ab-4fba-b963-293312e5317a" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_18" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Karlach" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ee3e3047-b5a0-4453-b316-f97e11d8ee04" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Karlach" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -604,9 +924,29 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="5b3ac8ff-5502-4b75-a797-a60b712a0bc7" />
-        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_2" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Laezel" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e4e86c8b-880b-4cfb-a9c4-03e07ec9ffe6" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Halsin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0e9c0101-198a-4dff-8899-9bc3b0306a93" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_14" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Halsin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1f0a9916-5c56-4d07-bcdb-6ec03df23480" />
+        <field name="Name" type="NameTableFieldDefinition" value="CONT_BZ_Box_Companions_substat" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Halsin" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
       </fields>
@@ -614,11 +954,21 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="3725b801-672d-47a8-b348-525ed503be26" />
-        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_4" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Minsc" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="98789ac2-0b63-4a96-aa87-78c1f623d073" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_8" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Minthara" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="687fa11f-508a-439f-8a9b-6f065793c6f5" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_All_Vanity_Unique_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Minthara" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -634,9 +984,29 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="b79dbf52-8165-4315-8ee8-5ea8f9f92662" />
-        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_6" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Shadowheart" />
+        <field name="UUID" type="IdTableFieldDefinition" value="418df429-343a-473b-a069-0462171c3bae" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_16" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Jaheira" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="99d4d911-1030-4872-8af9-4aa5a2d634b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Jaheira" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="598968c7-3c2c-44b4-8b6e-254a27d9396e" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_0" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Jaheira" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
       </fields>
@@ -644,9 +1014,29 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
-        <field name="UUID" type="IdTableFieldDefinition" value="13247d55-7c7b-4715-b616-8e8b9e8ed8ee" />
-        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_7" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Wyll" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3b4beecc-8800-4693-b308-72214bff0440" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_22" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_Minsc" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d8976403-c3a0-44c0-8ff0-3bfa1db80f57" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_21" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Minsc" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3725b801-672d-47a8-b348-525ed503be26" />
+        <field name="Name" type="NameTableFieldDefinition" value="f9e99541-7d18-4386-955e-5ca06d3571eb_substat_4" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Minsc" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
       </fields>
