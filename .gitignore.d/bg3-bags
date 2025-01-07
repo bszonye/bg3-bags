@@ -1,33 +1,26 @@
 # vcsh config for worktree = BG3/Data
 
-# ignore non-mod data
-/*
-
-# include the mod folders, but ignore other mods:
-!/Editor
-/Editor/*
-!/Editor/Mods
-/Editor/Mods/*
-!/Generated
-/Generated/*
-!/Generated/Public
-/Generated/Public/*
-!/Mods
-/Mods/*
-!/Projects
-/Projects/*
-!/Public
-/Public/*
-
-# include gitignore for this repo
-!/.gitignore.d
-/.gitignore.d/**
+# include gitignore for this repo only
+.gitignore.d/**
 !/.gitignore.d/bg3-bags
 
-# source directories for this mod
+# ignore non-mod dirs:
+Editor/*
+!Editor/Mods
+Localization/*
+
+# ignore other mods:
+Editor/Mods/*
+Generated/Public/*
+Mods/*
+Projects/*
+Public/*
+
+# include source directories for this mod
 !bags-and-boxes_c6430e40-ee94-246a-8c1e-68d04485f44a/
 
 # build artifacts
+*.pak
 goals.raw
 log.txt
 story.div*
