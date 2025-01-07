@@ -4,12 +4,12 @@
 .gitignore.d/**
 !/.gitignore.d/bg3-bags
 
-# ignore non-mod dirs:
+# ignore non-mod dirs
 Editor/*
 !Editor/Mods
 Localization/*
 
-# ignore other mods:
+# ignore other mods
 Editor/Mods/*
 Generated/Public/*
 Mods/*
@@ -19,7 +19,7 @@ Public/*
 # include source directories for this mod
 !bags-and-boxes_c6430e40-ee94-246a-8c1e-68d04485f44a/
 
-# build artifacts
+# ignore build artifacts
 *.pak
 goals.raw
 log.txt
