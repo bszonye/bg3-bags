@@ -26,15 +26,15 @@
   <content contentuid="h5c8e9b80gc30fg8dc7gf33bgeb193c8bdc45" version="7">TODO: box of boxes</content>
   <content contentuid="h37190b9egd0ebg5ab4ga036g7284287233a2" version="5">TODO: junk</content>
   <content contentuid="h3baf8224g3a44gf08bg9f34g70ef94cf2799" version="5">TODO: story items</content>
-  <content contentuid="h23b54073g4f85g0145ge56dge2295aa76962" version="6">Potion Case</content>
-  <content contentuid="h35144373gf647g8a8egac2eg9c9737ee34d5" version="6">Stores your potions and elixirs.</content>
-  <content contentuid="haa14f3caga107gf40cgccb7gddc2cf7e6daa" version="6">TODO: potions</content>
+  <content contentuid="h23b54073g4f85g0145ge56dge2295aa76962" version="11">Potion Case</content>
+  <content contentuid="h35144373gf647g8a8egac2eg9c9737ee34d5" version="11">Stores your potions and elixirs.</content>
+  <content contentuid="haa14f3caga107gf40cgccb7gddc2cf7e6daa" version="11">TODO: potions</content>
   <content contentuid="h31fce5d5g3fb3g4012g7f4cg5f201fe52c49" version="6">Grenade Pouch</content>
   <content contentuid="h2090a159g8e4fg6b74g397fg808731afc894" version="6">Stores your grenades and explosives.</content>
   <content contentuid="h8c2261dbgc993g5228g7c3egae02925cd2d8" version="6">TODO: grenades</content>
-  <content contentuid="ha71b7ba0ge2b2gced3g370cg3659b2b100d6" version="7">Quiver</content>
-  <content contentuid="hd1f24902gb9e0gf894g0fb1g7b0c8cb91c4b" version="7">Stores your arrows.</content>
-  <content contentuid="h5c1c2fd7ga379gc35bg549dg240b8194e47a" version="7">TODO: quiver</content>
+  <content contentuid="ha71b7ba0ge2b2gced3g370cg3659b2b100d6" version="10">Quiver</content>
+  <content contentuid="hd1f24902gb9e0gf894g0fb1g7b0c8cb91c4b" version="10">Stores your arrows.</content>
+  <content contentuid="h5c1c2fd7ga379gc35bg549dg240b8194e47a" version="10">TODO: quiver</content>
   <content contentuid="h93b21a94g9236gc661g2e77ga7b745fa4b9d" version="5">Oils and Poisons</content>
   <content contentuid="hed406a45g7abcg1ccbgf074g2d4032c12f5e" version="5">Stores your weapon coatings.</content>
   <content contentuid="h21e835b5gad5bgc7bag7457g665c438588e6" version="5">TODO: coatings</content>
@@ -73,10 +73,10 @@
   <content contentuid="h5655f873g6183gbb5age57dg9f7c09c9727d" version="12">TODO</content>
   <content contentuid="h8527fa4egb48eg9b7cg25d5g2ef3ccd9bde0" version="8">Supplies</content>
   <content contentuid="h138b5984g2529gb91dgee62g8e8d4676c75d" version="8">TODO</content>
-  <content contentuid="hb0fb26edg8d11g2db2g4642gdba19602feb6" version="15">Supplies (Alchemy)</content>
-  <content contentuid="h7a6e0a4bg5818gcdd1g275eg776971e4e21e" version="15">TODO</content>
-  <content contentuid="h35ef6e40g4071gbe64ge68eg6b6a874dacee" version="12">Supplies (Arrows)</content>
-  <content contentuid="h4279b763g208cg234agbd07g143de1954ad5" version="12">TODO</content>
+  <content contentuid="hb0fb26edg8d11g2db2g4642gdba19602feb6" version="21">Supplies (Alchemy)</content>
+  <content contentuid="h7a6e0a4bg5818gcdd1g275eg776971e4e21e" version="21">TODO</content>
+  <content contentuid="h35ef6e40g4071gbe64ge68eg6b6a874dacee" version="17">Supplies (Arrows)</content>
+  <content contentuid="h4279b763g208cg234agbd07g143de1954ad5" version="17">TODO</content>
   <content contentuid="h1b6eeb0agfc8ag628bg5a9fgac1e41c98558" version="8">Supplies (Explosives)</content>
   <content contentuid="ha9868cd0gf3cag8da9g9154g8ba573d5c757" version="8">TODO</content>
   <content contentuid="he1d60916g3df1g2ff7g8c62ga684dc37a822" version="11">Library (Scrolls)</content>
