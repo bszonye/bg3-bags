@@ -3,3 +3,8 @@ type "Armor"
 using "ARM_Underwear_Shadowheart"
 data "RootTemplate" "4b86e4fc-4532-4a1e-966b-1915fd9de1de"
 
+new entry "ARM_Vanity_Body_Rich_D_Green"
+type "Armor"
+using "ARM_Vanity_Body_Rich_D"
+data "RootTemplate" "66ab6508-2aa1-4bea-a0ab-c5837a1fb615"
+

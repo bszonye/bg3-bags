@@ -89,7 +89,7 @@ extra boxes for camp storage"/>
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="bags-and-boxes_c6430e40-ee94-246a-8c1e-68d04485f44a"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="e6fde0452e80ca8c29f4baa20906777b"/>
+                    <attribute id="MD5" type="LSString" value="305f7672a10c0abba6a220a5e247af8c"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Bags &amp; Boxes"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -97,7 +97,7 @@ extra boxes for camp storage"/>
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="c6430e40-ee94-246a-8c1e-68d04485f44a"/>
-                    <attribute id="Version64" type="int64" value="36028797018964005"/>
+                    <attribute id="Version64" type="int64" value="36028797018964010"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
