@@ -103,6 +103,154 @@ new subtable "-1"
 object category "I_OBJ_BZ_Box_Vanity_Unique",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_BZ_Box_Wares",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Armour"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Leather_Body_Druid",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_HalfPlate_Body_Githyanki",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Leather_Body_Rogue",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ScaleMail_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Devotion",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Vengeance",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Bard",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Boots"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Boots_Metal_Githyanki",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather_Druid",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_Barbarian",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Cloaks"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Cloak",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Cloak_Long_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Cloak_Long_C",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Cloak_Long_C_1",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Cloak_Long_D",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Clothing"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Barbarian",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body_Sorcerer",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body_Sorcerer_DraconicAncestry",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body_Sorcerer_StormSorcery",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Gloves"
+CanMerge 1
+new subtable "-1"
+object category "T_Empty",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Headgear"
+CanMerge 1
+new subtable "-1"
+object category "T_Empty",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Jewellery"
+CanMerge 1
+new subtable "-1"
+object category "T_Empty",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Musical"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Instrument_Flute",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Instrument_Drum",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Instrument_Lute",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Instrument_Lute_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Instrument_Lyre",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Instrument_Violin",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Ranged"
+CanMerge 1
+new subtable "-1"
+object category "T_Empty",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Shields"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Shield_D",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shield_E",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shield",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shield_C",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Weapons"
+CanMerge 1
+new subtable "-1"
+object category "T_Empty",1,0,0,0,0,0,0,0
+new treasuretable "BZ_All_Start_Unique"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_ShadowheartCirclet",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Astarion_StarterArmor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Karlach_StarterArmor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Karlach_Shoes",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Karlach_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOB_DrowCommander_Leather_Armor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOB_DrowCommander_Leather_Boots",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOB_DrowCommander_Leather_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Leather_Halsin",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Halsin_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Leather_Jaheira",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Jaheira_Boots",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Jaheira_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Leather_Body_Minsc",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Leather_Minsc",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Daisy_Plate",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Daisy_Boots",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Daisy_Gloves",1,0,0,0,0,0,0,0
 new treasuretable "BZ_All_Dye"
 CanMerge 1
 new subtable "-1"
@@ -233,10 +381,6 @@ new treasuretable "BZ_All_Vanity_Body"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Vanity_ElegantRobe",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_UNI_DaisyDress",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_UNI_DaisyPlaysuit",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Vanity_Body_Deva",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -469,6 +613,10 @@ new subtable "-1"
 object category "I_ARM_Camp_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Camp_Shoes",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_DaisyDress",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_DaisyPlaysuit",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_A_Story"
 CanMerge 1
 new subtable "1,1"
