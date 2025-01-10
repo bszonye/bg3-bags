@@ -96,7 +96,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_BZ_Box" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="98c79839-4619-4770-9222-87e2af51101e" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6c18ad1f-68a0-4ffd-9af4-149fbacb6946" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="0.5" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>

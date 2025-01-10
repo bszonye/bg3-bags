@@ -15,21 +15,21 @@ new subtable "-1"
 object category "I_OBJ_Backpack_CampSupplies",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_Keychain",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Grenades",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Coatings",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Potions",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Purse",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Quiver",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Scrolls",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Tools",1,0,0,0,0,0,0,0
-new subtable "-4"
+new subtable "-7"
 object category "I_OBJ_BZ_Bag_Wares",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Extra_Boxes"
 CanMerge 1
@@ -103,45 +103,93 @@ new subtable "-1"
 object category "I_OBJ_BZ_Box_Vanity_Unique",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_BZ_Box_Wares",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Armour"
+new treasuretable "BZ_Common_Armour"
 CanMerge 1
 new subtable "-1"
+object category "I_ARM_Breastplate_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ChainMail_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Leather_Body_Drow",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body_Druid",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_HalfPlate_Body_Githyanki",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "6"
+object category "I_ARM_HalfPlate_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hide_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body_Rogue",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+StartLevel "6"
+object category "I_ARM_Plate_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ScaleMail_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ScaleMail_Body_Paladin_Devotion",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
-new subtable "-1"
 object category "I_ARM_ScaleMail_Body_Paladin_Vengeance",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Boots"
+new subtable "-1"
+object category "I_ARM_Splint_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Common_Boots"
 CanMerge 1
+new subtable "-1"
+object category "I_ARM_Boots_Leather_A",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_BZ_Shoes_Bard",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_BZ_Boots_Leather_Drow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather_D",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Boots_Metal_Githyanki",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Boots_Leather_Druid",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_Boots_Leather_F",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_G",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Shoes_Barbarian",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Boots_Leather",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_Shoes_Monk",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather_C",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_H",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Cloaks"
+new subtable "-1"
+object category "I_ARM_Boots_Leather_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_E",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_C",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes_F",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Common_Cloaks"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Cloak",1,0,0,0,0,0,0,0
@@ -153,10 +201,12 @@ new subtable "-1"
 object category "I_ARM_Cloak_Long_C_1",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Cloak_Long_D",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Clothing"
+new treasuretable "BZ_Common_Clothing"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Barbarian",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Civilian_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -165,19 +215,57 @@ new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_DraconicAncestry",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_StormSorcery",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Gloves"
+new treasuretable "BZ_Common_Gloves"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_BZ_Gloves_Leather_Drow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Metal_Githyanki",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Bracers_Barbarian",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Metal",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Common_Headgear"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_D",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_C",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Jester_Hat",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_BZ_Helmet_Leather_Drow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_F",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_E",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Helmet_Metal",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_MuffinHat_A",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Helmet_Leather",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_MuffinHat_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_H",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_G",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Hat_Wizard_A",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Common_Jewellery"
 CanMerge 1
 new subtable "-1"
 object category "T_Empty",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Headgear"
-CanMerge 1
-new subtable "-1"
-object category "T_Empty",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Jewellery"
-CanMerge 1
-new subtable "-1"
-object category "T_Empty",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Musical"
+new treasuretable "BZ_Common_Musical"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Instrument_Flute",1,0,0,0,0,0,0,0
@@ -191,12 +279,14 @@ new subtable "-1"
 object category "I_ARM_Instrument_Lyre",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Instrument_Violin",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Ranged"
+new treasuretable "BZ_Common_Ranged"
 CanMerge 1
 new subtable "-1"
 object category "T_Empty",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Shields"
+new treasuretable "BZ_Common_Shields"
 CanMerge 1
+new subtable "-1"
+object category "I_ARM_KuoToa_Shield_A",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shield_D",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -204,12 +294,16 @@ object category "I_ARM_Shield_E",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shield",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_Duergar_Shield_B",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Shield_C",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Weapons"
+new subtable "-1"
+object category "I_ARM_Duergar_Shield_A",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Common_Weapons"
 CanMerge 1
 new subtable "-1"
 object category "T_Empty",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Start_Unique"
+new treasuretable "BZ_Unique_Armour"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
@@ -335,49 +429,7 @@ new subtable "-1"
 object category "I_OBJ_Dye_Golden",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_Dye_Remover",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Underwear"
-CanMerge 1
-new subtable "-1"
-object category "I_ARM_BZ_Underwear_Deva",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Dragonborn",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Dragonborn_Bronze",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Dwarves",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Dwarves_Green",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Elves",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Elves_Blue",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Elves_Purple",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Githyanki",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Githyanki_Black",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Gnomes",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Gnomes_Blue",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Halflings",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_HalfOrcs",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_HalfOrcs_Orange",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Humans",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Humans_B",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Humans_C",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Tieflings",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_ARM_Underwear_Incubus",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Vanity_Body"
+new treasuretable "BZ_All_Vanity"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Vanity_ElegantRobe",1,0,0,0,0,0,0,0
@@ -519,7 +571,7 @@ new subtable "-1"
 object category "I_ARM_Vanity_Body_Refugee_Green",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Vanity_Body_Pants",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Vanity_Shoes"
+new treasuretable "BZ_All_Shoes"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Vanity_Deva_Shoes",1,0,0,0,0,0,0,0
@@ -547,7 +599,49 @@ new subtable "-1"
 object category "I_ARM_Camp_Sandals_C",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Vanity_Shoes_Circus",1,0,0,0,0,0,0,0
-new treasuretable "BZ_All_Vanity_Unique"
+new treasuretable "BZ_All_Underwear"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_BZ_Underwear_Deva",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Dragonborn",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Dragonborn_Bronze",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Dwarves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Dwarves_Green",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Elves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Elves_Blue",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Elves_Purple",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Githyanki",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Githyanki_Black",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Gnomes",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Gnomes_Blue",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Halflings",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_HalfOrcs",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_HalfOrcs_Orange",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Humans",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Humans_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Humans_C",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Tieflings",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Underwear_Incubus",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Unique_Vanity"
 CanMerge 1
 new subtable "-1"
 object category "I_ARM_Camp_Body_Laezel",1,0,0,0,0,0,0,0
@@ -628,47 +722,47 @@ object category "T_Empty",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Armour"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Armour",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Boots"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Boots",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Cloaks"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Cloaks",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Clothing"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Clothing",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Gloves"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Gloves",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Headgear"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Headgear",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Jewellery"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Jewellery",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Musical"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Musical",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Ranged"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Ranged",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Shields"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Shields",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_EQ_Weapons"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Common_Weapons",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Library"
 CanMerge 1
 new subtable "1,1"
@@ -736,23 +830,25 @@ object category "T_Empty",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Vanity"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_All_Vanity",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Vanity_Dyes"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_All_Dye",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Vanity_Shoes"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_All_Shoes",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Vanity_Underwear"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_All_Underwear",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Vanity_Unique"
 CanMerge 1
 new subtable "1,1"
-object category "T_Empty",1,0,0,0,0,0,0,0
+object category "T_BZ_Unique_Vanity",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_BZ_Unique_Armour",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Box_Wares"
 CanMerge 1
 new subtable "1,1"

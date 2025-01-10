@@ -4,10 +4,10 @@
   <content contentuid="hca356eb7g8749gb14dgbb4fge5ba95d80c4a" version="7">Box</content>
   <content contentuid="h7df15f2bgb9dbgd890g379dg09f3ef553f08" version="15">Extra Bags</content>
   <content contentuid="h91efc6e4g90edg658fg4e95g1f444b985960" version="3">Bag</content>
-  <content contentuid="hdb6bba35gcad2g7026g5311gf58b77c3050c" version="12">Equipment (Cloaks)</content>
-  <content contentuid="hc4e3b33egb6d4g7f6ag0859g113717cd5973" version="11">Equipment (Armour)</content>
-  <content contentuid="h6f33d3b9gc800gacc3g494fg358ba5db35e1" version="13">Equipment (Boots)</content>
-  <content contentuid="h831855f6g92cbgc7ecg1da4ga9970fe67e38" version="12">Equipment (Clothing)</content>
+  <content contentuid="hdb6bba35gcad2g7026g5311gf58b77c3050c" version="13">Equipment (Cloaks)</content>
+  <content contentuid="hc4e3b33egb6d4g7f6ag0859g113717cd5973" version="12">Equipment (Armour)</content>
+  <content contentuid="h6f33d3b9gc800gacc3g494fg358ba5db35e1" version="14">Equipment (Boots)</content>
+  <content contentuid="h831855f6g92cbgc7ecg1da4ga9970fe67e38" version="14">Equipment (Clothing)</content>
   <content contentuid="h057e60ecgf1bbgf167g456eg0c2094969d12" version="8">Equipment (Amulets)</content>
   <content contentuid="hdbc6059eg2042g81b5gb9fagbe2729c65ba9" version="7">Wares</content>
   <content contentuid="h32160b78g7233g078dga486gb4ff0a6cff38" version="6">Adventurer's Pouch</content>
@@ -19,10 +19,10 @@
   <content contentuid="h9262039fgf5cag9ebfge3fbg4442163e1850" version="3">TODO: story items</content>
   <content contentuid="hde11076ag696ag2471gab41gc649e3368f61" version="1">TODO</content>
   <content contentuid="hd8685817g9c0ag7411ga0bag8825d63f3883" version="3">TODO: amulets</content>
-  <content contentuid="hb9b9ba84g217cg790dg5dcag7488b2f51c2e" version="6">TODO: clothing</content>
-  <content contentuid="h215e2f95g84c1g31ffgf8c5g31a9faec1cb7" version="6">TODO: boots</content>
-  <content contentuid="h1f188cefg7459g44b0g8583g9aa73e7b1ca1" version="5">TODO: light armour</content>
-  <content contentuid="h17b2f808gaad6g3ed1gecb3g466e18134240" version="5">TODO: medium armour</content>
+  <content contentuid="hb9b9ba84g217cg790dg5dcag7488b2f51c2e" version="8">TODO: clothing</content>
+  <content contentuid="h215e2f95g84c1g31ffgf8c5g31a9faec1cb7" version="7">TODO: boots</content>
+  <content contentuid="h1f188cefg7459g44b0g8583g9aa73e7b1ca1" version="6">TODO: light armour</content>
+  <content contentuid="h17b2f808gaad6g3ed1gecb3g466e18134240" version="6">TODO: medium armour</content>
   <content contentuid="h5c8e9b80gc30fg8dc7gf33bgeb193c8bdc45" version="7">TODO: box of boxes</content>
   <content contentuid="h37190b9egd0ebg5ab4ga036g7284287233a2" version="5">TODO: junk</content>
   <content contentuid="h3baf8224g3a44gf08bg9f34g70ef94cf2799" version="5">TODO: story items</content>
@@ -45,22 +45,22 @@
   <content contentuid="h9a0f464cgb9d5gb69cgf6dag097ac2b364ee" version="4">TODO: purse</content>
   <content contentuid="h31b70e68gf425g5a0eg227fgb1289a680bf6" version="3">Tool Bag</content>
   <content contentuid="h5dbc1d4age3b3gb202gbe5cg541641d57858" version="3">TODO: tools</content>
-  <content contentuid="hb58acde0g13feg8660g90d2gcf9ea83629ca" version="5">Equipment (Gloves)</content>
-  <content contentuid="hc99b8a18g5941g2dcfgd190g37b23e8bfec8" version="5">TODO: gloves</content>
-  <content contentuid="h731faf6bge471g8a54g8ad6g0849161e2269" version="5">Equipment (Headgear)</content>
-  <content contentuid="h364b0b7ag78d5gd152g5188gb2f78134b66b" version="5">TODO: headgear</content>
+  <content contentuid="hb58acde0g13feg8660g90d2gcf9ea83629ca" version="6">Equipment (Gloves)</content>
+  <content contentuid="hc99b8a18g5941g2dcfgd190g37b23e8bfec8" version="6">TODO: gloves</content>
+  <content contentuid="h731faf6bge471g8a54g8ad6g0849161e2269" version="6">Equipment (Headgear)</content>
+  <content contentuid="h364b0b7ag78d5gd152g5188gb2f78134b66b" version="6">TODO: headgear</content>
   <content contentuid="h3bf4b606gada1gecbeg38fdg60d0a697ba1e" version="6">Equipment</content>
   <content contentuid="h6c903b0ag5fbag0297g5f0fgd25801a92537" version="6">TODO: miscellaneous equipment</content>
-  <content contentuid="h4549a1a4g7bf3g7d1ag3320g2dc3de9550b6" version="7">Equipment (Weapons)</content>
-  <content contentuid="hc28b5cf2g043cgf854gc07dg3d0042e0438e" version="7">TODO: weapons</content>
-  <content contentuid="hb0fc3f08gdb28g563dg0d2cgabd960ee6f76" version="5">Equipment (Musical)</content>
-  <content contentuid="hc605e86cg9058g66c2g9ae0gd10c0b48f759" version="5">TODO: musical instruments</content>
-  <content contentuid="hda4a5f27ge6bfg6d48g97c3gfa4cd0dfe530" version="6">Equipment (Ranged)</content>
-  <content contentuid="h509963e1ge8ddga2a3g2c50ga9dd5871024c" version="6">TODO: ranged weapons</content>
-  <content contentuid="h8cf88dd7gca3age3e1g0acegfb7e2db76653" version="13">Equipment (Jewellery)</content>
-  <content contentuid="he5449d3ag622egb6bdgabf9g030f0a3e6430" version="13">TODO: amulets &amp; rings</content>
-  <content contentuid="hc4615b74g4586ga2adgc3ebge56e157a9881" version="5">Equipment (Shields)</content>
-  <content contentuid="h79a0d540g0a3ag3e71g4b49g9d7299ca1302" version="5">TODO: shields</content>
+  <content contentuid="h4549a1a4g7bf3g7d1ag3320g2dc3de9550b6" version="8">Equipment (Weapons)</content>
+  <content contentuid="hc28b5cf2g043cgf854gc07dg3d0042e0438e" version="8">TODO: weapons</content>
+  <content contentuid="hb0fc3f08gdb28g563dg0d2cgabd960ee6f76" version="6">Equipment (Musical)</content>
+  <content contentuid="hc605e86cg9058g66c2g9ae0gd10c0b48f759" version="6">TODO: musical instruments</content>
+  <content contentuid="hda4a5f27ge6bfg6d48g97c3gfa4cd0dfe530" version="7">Equipment (Ranged)</content>
+  <content contentuid="h509963e1ge8ddga2a3g2c50ga9dd5871024c" version="7">TODO: ranged weapons</content>
+  <content contentuid="h8cf88dd7gca3age3e1g0acegfb7e2db76653" version="14">Equipment (Jewellery)</content>
+  <content contentuid="he5449d3ag622egb6bdgabf9g030f0a3e6430" version="14">TODO: amulets &amp; rings</content>
+  <content contentuid="hc4615b74g4586ga2adgc3ebge56e157a9881" version="6">Equipment (Shields)</content>
+  <content contentuid="h79a0d540g0a3ag3e71g4b49g9d7299ca1302" version="6">TODO: shields</content>
   <content contentuid="hf7a09ecagb568g15cfge40aga8d840da0f04" version="5">Library</content>
   <content contentuid="h817b9100g0120g426ag3295g9e001d75c53f" version="5">TODO</content>
   <content contentuid="hc9318b29g1eabge959g5739g76b74b1a195c" version="9">Library (Rare &amp; Special)</content>
@@ -93,15 +93,17 @@
   <content contentuid="h8b165a6ag33aeg3ea9g8633gea1629d9d205" version="9">TODO</content>
   <content contentuid="h1dcb9f5cg2262g0d21g3917gedba50ecc6c3" version="7">Valuables (Keepsakes)</content>
   <content contentuid="hd89d8255g6b39g56ffg6dfegb43399529a45" version="7">TODO</content>
-  <content contentuid="hed114b88g329cg27b5gdfabg25f330583d9a" version="7">Wardrobe</content>
-  <content contentuid="h6bb6867bg9d92gc962g3b6fgef4e2963f161" version="7">TODO</content>
-  <content contentuid="hbb9c32fbg267dg89d4ge289g0f81d7501c30" version="7">Wardrobe (Dyes)</content>
-  <content contentuid="h4ce6c9b7gf3a3gde69g23d8gd88f2a6fd97d" version="7">TODO</content>
-  <content contentuid="hf075d135g29c5gaae2g479cg9bf6d2bbd6e7" version="8">Wardrobe (Shoes)</content>
-  <content contentuid="h86bfd763gf63eg3aaag91fbg9f33b74a55ae" version="8">TODO</content>
-  <content contentuid="h4a2fa0a8g275cg6733g7003gfbee2c715a4b" version="7">Wardrobe (Underwear)</content>
-  <content contentuid="h47595ac1gf632gdc18g745dg0e203dc1078f" version="7">TODO</content>
-  <content contentuid="h0443e97dg4531gcf48g1f77ge94db9f64a50" version="10">Wardrobe (Unique)</content>
-  <content contentuid="h1f586db1g2676gcd2fg561cgac678f4ec2d6" version="10">TODO</content>
+  <content contentuid="hed114b88g329cg27b5gdfabg25f330583d9a" version="8">Wardrobe</content>
+  <content contentuid="h6bb6867bg9d92gc962g3b6fgef4e2963f161" version="8">TODO</content>
+  <content contentuid="hbb9c32fbg267dg89d4ge289g0f81d7501c30" version="8">Wardrobe (Dyes)</content>
+  <content contentuid="h4ce6c9b7gf3a3gde69g23d8gd88f2a6fd97d" version="8">TODO</content>
+  <content contentuid="hf075d135g29c5gaae2g479cg9bf6d2bbd6e7" version="9">Wardrobe (Shoes)</content>
+  <content contentuid="h86bfd763gf63eg3aaag91fbg9f33b74a55ae" version="9">TODO</content>
+  <content contentuid="h4a2fa0a8g275cg6733g7003gfbee2c715a4b" version="8">Wardrobe (Underwear)</content>
+  <content contentuid="h47595ac1gf632gdc18g745dg0e203dc1078f" version="8">TODO</content>
+  <content contentuid="h0443e97dg4531gcf48g1f77ge94db9f64a50" version="11">Wardrobe (Unique)</content>
+  <content contentuid="h1f586db1g2676gcd2fg561cgac678f4ec2d6" version="11">TODO</content>
   <content contentuid="h77578864g3f46g6a48g3aa9g772d9a058325" version="3">Underwear</content>
+  <content contentuid="hb54e92fcg48d2g4081gaba9gaf795394cf0b" version="2">Githyanki Bracers</content>
+  <content contentuid="hb8ad9ee3g4086g4a09g8ad0g46e2da30369b" version="2">Forged from an amalgamation of metals, these bracers shine a million different shades of silver.</content>
 </contentList>
