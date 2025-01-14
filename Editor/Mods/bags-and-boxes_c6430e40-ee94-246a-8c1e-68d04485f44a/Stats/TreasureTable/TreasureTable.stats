@@ -500,17 +500,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Breastplate_Body" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Breastplate" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439" />
-        <field name="UUID" type="IdTableFieldDefinition" value="771c460e-601d-4cb6-b2dd-d070414e0d1c" />
-        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Armour_substat_9" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ChainShirt_Body" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="Chain Shirt" />
+        <field name="StartLevel" type="IntegerTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -522,6 +512,17 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ChainMail_Body" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Chain Mail" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439" />
+        <field name="UUID" type="IdTableFieldDefinition" value="771c460e-601d-4cb6-b2dd-d070414e0d1c" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Armour_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ChainShirt_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Chain Shirt" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -722,6 +723,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Splint_Body" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Splint Armour" />
+        <field name="StartLevel" type="IntegerTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -854,6 +856,17 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shoes_Monk" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Monastic Boots" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c20571dd-d201-480c-95fa-48203ae13172" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d2fb9e3-c921-4152-b25e-bd16a0c2f9a9" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Boots_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Metal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Metallic Boots" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -1385,8 +1398,52 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="243dbd61-c0e7-4e19-9ea9-d735c6f7c864" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Goblin_Shield_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Goblin Shield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
         <field name="UUID" type="IdTableFieldDefinition" value="22c5b9f2-09e4-4525-83d3-3c4c213b65e4" />
         <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Goblin_Shield_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Scrapwood Shield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a543e909-79b2-4372-a159-aa0fd0aa843b" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Goblin_Shield_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Scrapwood Shield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c30bb64f-e71b-4091-bd38-18f4c21cc42f" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Goblin_Shield_E" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Scrapwood Shield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4cfdd5bb-95eb-4b7f-87d4-e6087676c501" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_2" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shield_D" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -1402,6 +1459,17 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shield_E" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Shield" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b08fc826-543a-41cb-a247-a0dda85972bc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="779b100e-c615-4761-b471-80c11f034d88" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Shields_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Goblin_Shield_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Spiked Shield" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">

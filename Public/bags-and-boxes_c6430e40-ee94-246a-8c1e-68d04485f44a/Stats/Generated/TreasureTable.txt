@@ -106,11 +106,12 @@ object category "I_OBJ_BZ_Box_Wares",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Armour"
 CanMerge 1
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_Breastplate_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
-new subtable "-1"
 object category "I_ARM_ChainMail_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body_Drow",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -148,6 +149,7 @@ object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_Splint_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
@@ -175,6 +177,8 @@ new subtable "-1"
 object category "I_ARM_Boots_Leather",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shoes_Monk",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Metal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Boots_Leather_C",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -288,9 +292,19 @@ CanMerge 1
 new subtable "-1"
 object category "I_ARM_KuoToa_Shield_A",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_Goblin_Shield_B",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Goblin_Shield_A",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Goblin_Shield_D",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Goblin_Shield_E",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Shield_D",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shield_E",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Goblin_Shield_C",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shield",1,0,0,0,0,0,0,0
 new subtable "-1"
