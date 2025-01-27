@@ -3,18 +3,10 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="cb2f7ac9-8389-444b-a382-ac03ea09e436" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Boots_Leather_Drow" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cda7838e-f619-4eea-913c-817ae3f2df09" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="af6d90b2-d9bd-4c95-aec8-5ecebcb49baf" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Shoes_Bard" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b7e6c6fe-4899-4220-bc66-80f63581f27f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f303e14f-6201-4fea-a43a-b051737a24c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Helmet_Leather_Drow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="99cae83d-0afc-4e3b-b003-619b696bc112" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -27,10 +19,18 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="f303e14f-6201-4fea-a43a-b051737a24c7" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Helmet_Leather_Drow" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="99cae83d-0afc-4e3b-b003-619b696bc112" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cb2f7ac9-8389-444b-a382-ac03ea09e436" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Boots_Leather_Drow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cda7838e-f619-4eea-913c-817ae3f2df09" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="af6d90b2-d9bd-4c95-aec8-5ecebcb49baf" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Shoes_Bard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b7e6c6fe-4899-4220-bc66-80f63581f27f" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

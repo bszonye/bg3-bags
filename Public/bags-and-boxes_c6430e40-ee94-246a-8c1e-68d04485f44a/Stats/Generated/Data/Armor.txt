@@ -1,3 +1,13 @@
+new entry "ARM_BZ_Helmet_Leather_Drow"
+type "Armor"
+using "ARM_Helmet_Leather"
+data "RootTemplate" "99cae83d-0afc-4e3b-b003-619b696bc112"
+
+new entry "ARM_BZ_Gloves_Leather_Drow"
+type "Armor"
+using "ARM_Gloves_Leather"
+data "RootTemplate" "f740cc6f-c7dd-4c31-8dbd-04138f59801e"
+
 new entry "ARM_BZ_Boots_Leather_Drow"
 type "Armor"
 using "ARM_Boots_Leather"
@@ -7,16 +17,6 @@ new entry "ARM_BZ_Shoes_Bard"
 type "Armor"
 using "ARM_Shoes"
 data "RootTemplate" "b7e6c6fe-4899-4220-bc66-80f63581f27f"
-
-new entry "ARM_BZ_Gloves_Leather_Drow"
-type "Armor"
-using "ARM_Gloves_Leather"
-data "RootTemplate" "f740cc6f-c7dd-4c31-8dbd-04138f59801e"
-
-new entry "ARM_BZ_Helmet_Leather_Drow"
-type "Armor"
-using "ARM_Helmet_Leather"
-data "RootTemplate" "99cae83d-0afc-4e3b-b003-619b696bc112"
 
 new entry "ARM_BZ_Underwear_Deva"
 type "Armor"
