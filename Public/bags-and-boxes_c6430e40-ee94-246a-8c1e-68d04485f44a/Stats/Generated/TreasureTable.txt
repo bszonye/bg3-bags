@@ -106,13 +106,18 @@ object category "I_OBJ_BZ_Box_Wares",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Armour"
 CanMerge 1
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_Breastplate_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_Breastplate_BGWatch",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "2"
 object category "I_ARM_ChainMail_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body_Drow",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -120,14 +125,17 @@ object category "I_ARM_Leather_Body_Druid",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_HalfPlate_Body_Githyanki",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "6"
 object category "I_ARM_HalfPlate_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "6"
 object category "I_ARM_HalfPlate_FlamingFist",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Hide_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "99"
 object category "I_ARM_Leather_FlamingFist",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Leather_Body_Rogue",1,0,0,0,0,0,0,0
@@ -138,8 +146,10 @@ object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Padded_BGWatch",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "6"
 object category "I_ARM_Plate_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "2"
 object category "I_ARM_RingMail_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ScaleMail_Body",1,0,0,0,0,0,0,0
@@ -156,10 +166,13 @@ object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_Splint_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "4"
 object category "I_ARM_StuddedLeather_CultOfAbsolute",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Boots"
 CanMerge 1
@@ -230,6 +243,7 @@ object category "I_ARM_Civilian_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "2"
 object category "I_ARM_Robe_CultOfAbsolute",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_FlamingFist",1,0,0,0,0,0,0,0
@@ -310,6 +324,7 @@ object category "T_Empty",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Shields"
 CanMerge 1
 new subtable "-1"
+StartLevel "2"
 object category "I_ARM_Shield_Broken",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_KuoToa_Shield_A",1,0,0,0,0,0,0,0
@@ -338,6 +353,7 @@ object category "I_ARM_Shield",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Duergar_Shield_B",1,0,0,0,0,0,0,0
 new subtable "-1"
+StartLevel "2"
 object category "I_ARM_Toy_Shield",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shield_C",1,0,0,0,0,0,0,0
@@ -349,8 +365,6 @@ new subtable "-1"
 object category "T_Empty",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Unique_Armour"
 CanMerge 1
-new subtable "-1"
-object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_UNI_ShadowheartCirclet",1,0,0,0,0,0,0,0
 new subtable "-1"
