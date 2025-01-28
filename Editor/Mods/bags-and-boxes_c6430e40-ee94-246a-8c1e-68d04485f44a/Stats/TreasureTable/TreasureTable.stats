@@ -665,17 +665,6 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439" />
-        <field name="UUID" type="IdTableFieldDefinition" value="5d6f8f7c-4bfe-4bc3-9c6b-da9f8bcd0d50" />
-        <field name="Name" type="NameTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439_substat_0" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Monk" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="Monastic Robes" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439" />
         <field name="UUID" type="IdTableFieldDefinition" value="99ed06d3-671d-48fc-9aba-7a4c88895178" />
         <field name="Name" type="NameTableFieldDefinition" value="81fa0f8a-014a-4a78-b8a5-2550cd563439_substat_4" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
@@ -1162,6 +1151,17 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Civilian_Body" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="Clothes" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="140f37f0-d85c-427c-b1fb-d1710ed5aef3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5d6f8f7c-4bfe-4bc3-9c6b-da9f8bcd0d50" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Common_Clothing_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Monk" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Monastic Robes" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
