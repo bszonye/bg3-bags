@@ -1,0 +1,243 @@
+new entry "OBJ_BZ_Bag"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "b3e64d05-193a-47a8-a821-169a4a6d7261"
+data "Vitality" "-1"
+
+new entry "OBJ_BZ_Bag_A"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "c3ce2736-8925-494a-b5f3-df11bdee4d5f"
+
+new entry "OBJ_BZ_Bag_A_Story"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "f1030d78-cade-4a69-a869-110b2d088fa4"
+
+new entry "OBJ_BZ_Bag_Coatings"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "73dd707b-73a5-4b94-8be3-5e96dcbc7286"
+
+new entry "OBJ_BZ_Bag_Grenades"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "f4ffe349-4585-4c3d-a5b0-e87431849723"
+
+new entry "OBJ_BZ_Bag_Potions"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "22fb27a1-1a99-4ded-ab19-3822821ed833"
+
+new entry "OBJ_BZ_Bag_Purse"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "02006245-9ac9-4202-87be-9b477b935f78"
+
+new entry "OBJ_BZ_Bag_Quiver"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "f5324944-3e08-40a1-8b86-eee75849a4c8"
+
+new entry "OBJ_BZ_Bag_Scrolls"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "2c6f745f-0956-40b0-9c93-7ff31bc7a8d7"
+
+new entry "OBJ_BZ_Bag_Tools"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "09c59633-8906-4db1-98c5-4b2ca2393cad"
+
+new entry "OBJ_BZ_Bag_Wares"
+type "Object"
+using "OBJ_BZ_Bag"
+data "RootTemplate" "ec988dbe-c796-4edb-9985-b912b3887ea5"
+
+new entry "OBJ_BZ_Box"
+type "Object"
+using "OBJ_Chest_Wood_Small"
+data "RootTemplate" "6c18ad1f-68a0-4ffd-9af4-149fbacb6946"
+data "Weight" "1"
+data "Vitality" "-1"
+
+new entry "OBJ_BZ_Box_A"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "b85a8a3c-82d9-4155-9779-1db1d354e7b0"
+
+new entry "OBJ_BZ_Box_A_Story"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "585df395-a7ae-4474-ada4-b74a5d1ef892"
+
+new entry "OBJ_BZ_Box_EQ"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "498e1f3f-5d29-43c0-a126-a84314c13c4d"
+
+new entry "OBJ_BZ_Box_EQ_Armour"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "cc2524d2-3b18-4117-8b4a-f50f60ffc299"
+
+new entry "OBJ_BZ_Box_EQ_Boots"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "71f01286-689f-41fa-a667-717818f31280"
+
+new entry "OBJ_BZ_Box_EQ_Cloaks"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "41aa1de9-df89-477c-b23a-b8c707618762"
+
+new entry "OBJ_BZ_Box_EQ_Clothing"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "f28cafd6-b255-4259-8c1e-f25a837cfc91"
+
+new entry "OBJ_BZ_Box_EQ_Gloves"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "7fb9c305-a3f1-4187-8905-4a6e619dc78f"
+
+new entry "OBJ_BZ_Box_EQ_Headgear"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "9122c344-dc1d-476d-b487-548bd37f3621"
+
+new entry "OBJ_BZ_Box_EQ_Jewellery"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "3b9ae7ab-5f2e-4c69-a66a-88a5d7eb2245"
+
+new entry "OBJ_BZ_Box_EQ_Musical"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "32154485-da40-45c4-9d05-1596a076d10e"
+
+new entry "OBJ_BZ_Box_EQ_Ranged"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "e6d00407-8b28-4322-889d-e7a58013a297"
+
+new entry "OBJ_BZ_Box_EQ_Shields"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "ee958e02-7917-4495-882a-f36f4d2826ea"
+
+new entry "OBJ_BZ_Box_EQ_Weapons"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "5cb9676d-894f-4d35-aa9c-cd69dfa93943"
+
+new entry "OBJ_BZ_Box_Wares"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "cd9bf494-0095-471f-8b41-c12f791d7fcd"
+
+new entry "OBJ_BZ_Box_Library"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "7944714d-c8d8-43b2-b4cd-0f1041edcb06"
+
+new entry "OBJ_BZ_Box_Library_Manuscripts"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "97bcbe54-aa30-4497-a646-06136a815e40"
+
+new entry "OBJ_BZ_Box_Library_Rare"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "5e4058ce-7fc1-4789-a265-aef6096c7c28"
+
+new entry "OBJ_BZ_Box_Library_Scrolls"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "ae66e808-e312-4398-b8f6-bb00476685ff"
+
+new entry "OBJ_BZ_Box_Magic"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "69c5dccd-7e7b-43f9-aad1-e1d29a0dc20b"
+
+new entry "OBJ_BZ_Box_Necromancy"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "ebceb7e8-3103-4a7e-b3ff-69d49ac10291"
+
+new entry "OBJ_BZ_Box_Supply"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "7d38575d-f930-4458-aca8-afda6f3a71f0"
+
+new entry "OBJ_BZ_Box_Supply_Alchemy"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "e73b81c9-fec2-4507-9a4e-6ffa0d0e187b"
+
+new entry "OBJ_BZ_Box_Supply_Arrows"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "312c7a03-a424-44c7-a936-40f852fa8a9b"
+
+new entry "OBJ_BZ_Box_Supply_Explosives"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "26614ec3-3dc9-456c-9b5b-89c9e4e9856d"
+
+new entry "OBJ_BZ_Box_Supply_Water"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "396a66a0-e115-4662-ac40-f70e72772f5a"
+
+new entry "OBJ_BZ_Box_Tools"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "5da8934e-9534-4425-b336-90263658fe2b"
+
+new entry "OBJ_BZ_Box_Valuables"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "992cf174-4f1e-4dbb-b0af-4bf61a43b5b6"
+
+new entry "OBJ_BZ_Box_Valuables_Art"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "b91b0ef0-b79b-4532-869f-bd1b454f0ccc"
+
+new entry "OBJ_BZ_Box_Valuables_Curios"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "be8c077f-0889-45f6-8ab8-6876e4f02256"
+
+new entry "OBJ_BZ_Box_Valuables_Keepsakes"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "10107e0f-68bb-4bea-9455-8700656772a2"
+
+new entry "OBJ_BZ_Box_Vanity"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "52b0ab5b-d165-49c7-80c7-5c3a78e7a2be"
+
+new entry "OBJ_BZ_Box_Vanity_Dyes"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "c1b75b3c-0240-4ce2-877c-d5432dfe2d9f"
+
+new entry "OBJ_BZ_Box_Vanity_Shoes"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "f577fdc9-c1fe-429b-9cbf-e0c17b737164"
+
+new entry "OBJ_BZ_Box_Vanity_Underwear"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "975a772d-def0-4237-9798-3501b9260308"
+
+new entry "OBJ_BZ_Box_Vanity_Unique"
+type "Object"
+using "OBJ_BZ_Box"
+data "RootTemplate" "67dfc5d6-feb8-4ffa-bb42-8c79acf79009"
+

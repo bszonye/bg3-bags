@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f303e14f-6201-4fea-a43a-b051737a24c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Helmet_Leather_Drow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="99cae83d-0afc-4e3b-b003-619b696bc112" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d4341046-716c-48d3-80d7-e00daced807a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Gloves_Leather_Drow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f740cc6f-c7dd-4c31-8dbd-04138f59801e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cb2f7ac9-8389-444b-a382-ac03ea09e436" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Boots_Leather_Drow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cda7838e-f619-4eea-913c-817ae3f2df09" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="af6d90b2-d9bd-4c95-aec8-5ecebcb49baf" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Shoes_Bard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b7e6c6fe-4899-4220-bc66-80f63581f27f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc211d49-8cd2-465b-a62b-b05407b460e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_BZ_Underwear_Deva" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="de4406bb-b8cd-4b76-a213-8125072fd378" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4b86e4fc-4532-4a1e-966b-1915fd9de1de" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="75c71b35-05ef-4cce-b99c-3b4364c4e362" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Bracers_Barbarian" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="49bc2435-0566-4244-9e47-b025cb338e31" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cdca0e95-75d3-4b5c-95d9-f615a8056d89" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Vanity_Body_Rich_D_Green" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05971902-a4c7-4b4a-a2e3-ef0a581a573c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="66ab6508-2aa1-4bea-a0ab-c5837a1fb615" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
