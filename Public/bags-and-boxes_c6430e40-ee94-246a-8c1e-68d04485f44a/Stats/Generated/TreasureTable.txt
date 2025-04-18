@@ -171,6 +171,8 @@ object category "I_ARM_ScaleMail_Body_Paladin_Vengeance",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Crown",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
@@ -263,6 +265,8 @@ new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_DraconicAncestry",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body_Sorcerer_ShadowSorcery",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_StormSorcery",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Gloves"
