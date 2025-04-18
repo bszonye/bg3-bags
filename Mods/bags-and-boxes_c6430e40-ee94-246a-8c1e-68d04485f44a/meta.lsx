@@ -90,13 +90,13 @@
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="c78bc6b8b2ec0034c9d3c500facb38d7"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Bags &amp; Boxes"/>
+                    <attribute id="Name" type="LSString" value="Bags and Boxes"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="4688513"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="c6430e40-ee94-246a-8c1e-68d04485f44a"/>
-                    <attribute id="Version64" type="int64" value="36169534507319296"/>
+                    <attribute id="Version64" type="int64" value="36169534507319297"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
