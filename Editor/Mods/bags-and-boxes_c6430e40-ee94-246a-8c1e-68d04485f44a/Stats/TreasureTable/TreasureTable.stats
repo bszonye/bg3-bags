@@ -23,6 +23,36 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b20063c2-23aa-4bd8-9493-47571cccc341" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Standard_Bag_Set" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Bag_AlchemyPouch" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b20063c2-23aa-4bd8-9493-47571cccc341" />
+        <field name="UUID" type="IdTableFieldDefinition" value="455a16ba-c1a7-4533-891e-b7573c698c87" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Standard_Bag_Set_substat_0" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Backpack_CampSupplies" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b20063c2-23aa-4bd8-9493-47571cccc341" />
+        <field name="UUID" type="IdTableFieldDefinition" value="43f813ca-1507-428d-b200-413096d2afec" />
+        <field name="Name" type="NameTableFieldDefinition" value="BZ_Standard_Bag_Set_substat_1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Keychain" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="52e56e26-52bd-401e-a50d-6642186fd13c" />
         <field name="Name" type="NameTableFieldDefinition" value="BZ_Extra_Bag_Set" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
@@ -116,8 +146,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c" />
         <field name="Name" type="NameTableFieldDefinition" value="BZ_Extra_Bags" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-7" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_BZ_Extra_Bag_Set" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-3" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_BZ_Standard_Bag_Set" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -126,29 +156,9 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c" />
         <field name="UUID" type="IdTableFieldDefinition" value="9e18930d-2d41-47c9-9cb2-775eacf7f40a" />
         <field name="Name" type="NameTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c_substat_0" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Bag_AlchemyPouch" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_BZ_Extra_Bag_Set" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c" />
-        <field name="UUID" type="IdTableFieldDefinition" value="455a16ba-c1a7-4533-891e-b7573c698c87" />
-        <field name="Name" type="NameTableFieldDefinition" value="BZ_Extra_Bags_substat_1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Backpack_CampSupplies" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c" />
-        <field name="UUID" type="IdTableFieldDefinition" value="43f813ca-1507-428d-b200-413096d2afec" />
-        <field name="Name" type="NameTableFieldDefinition" value="17f9453b-8d5c-477e-ae10-68579599569c_substat_1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Keychain" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-10" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
