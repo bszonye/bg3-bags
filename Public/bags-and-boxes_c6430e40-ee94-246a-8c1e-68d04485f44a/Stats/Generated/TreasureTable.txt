@@ -5,6 +5,14 @@ new subtable "-1"
 object category "I_OBJ_BZ_Bag_A",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_BZ_Box_A",1,0,0,0,0,0,0,0
+new treasuretable "BZ_Standard_Bag_Set"
+CanMerge 1
+new subtable "-1"
+object category "I_OBJ_Bag_AlchemyPouch",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_OBJ_Backpack_CampSupplies",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_OBJ_Keychain",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Extra_Bag_Set"
 CanMerge 1
 new subtable "-1"
@@ -27,14 +35,10 @@ new subtable "-1"
 object category "I_OBJ_BZ_Bag_Wares",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Extra_Bags"
 CanMerge 1
-new subtable "-7"
+new subtable "-3"
+object category "T_BZ_Standard_Bag_Set",1,0,0,0,0,0,0,0
+new subtable "-10"
 object category "T_BZ_Extra_Bag_Set",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_OBJ_Bag_AlchemyPouch",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_OBJ_Backpack_CampSupplies",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_OBJ_Keychain",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Extra_Boxes"
 CanMerge 1
 new subtable "-1"
@@ -167,6 +171,8 @@ object category "I_ARM_ScaleMail_Body_Paladin_Vengeance",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
 new subtable "-1"
+object category "I_ARM_ScaleMail_Body_Paladin_Crown",1,0,0,0,0,0,0,0
+new subtable "-1"
 object category "I_ARM_Robe_Selunite",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
@@ -259,6 +265,8 @@ new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_DraconicAncestry",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Robe_Body_Sorcerer_ShadowSorcery",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Robe_Body_Sorcerer_StormSorcery",1,0,0,0,0,0,0,0
 new treasuretable "BZ_Common_Gloves"

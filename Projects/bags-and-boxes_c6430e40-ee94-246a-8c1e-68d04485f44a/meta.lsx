@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="MetaData">
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="c6430e40-ee94-246a-8c1e-68d04485f44a"/>
             <attribute id="Name" type="LSString" value="bags-and-boxes"/>
             <attribute id="UUID" type="LSString" value="95998dc9-3d5f-e29f-cdad-37361b957062"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
             <children>
                 <node id="Categories"/>
             </children>
